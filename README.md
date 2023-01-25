@@ -10,6 +10,19 @@ Here is my CV:__
     <tr>
         <th>Tools</th>
         <th>JIRA, Postman, Chrome Dev Tools, Testrail, Charles Proxy</th>
+    </tr>
+    <tr>
+        <th>Web technologies</th>
+        <th>Client-server architecture, HTTP, JSON, HTML, CSS, OSI Model, Cache, Cookies, TCP/UDP</th>  
+    </tr> 
+    <tr>
+        <th>Databases</th>
+        <th>MySQL, DBeaver</th>
+    </tr> 
+    <tr>
+        <th>Methodologies</th>
+        <th>Scrum, Kanban</th>
+    </tr>
 </table>
 
 
