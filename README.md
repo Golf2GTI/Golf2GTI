@@ -27,10 +27,10 @@ I'm Kirill Kapustin, QA Engineer/Software tester. Currently i have no commercial
     </tr>
 </table>
 <h1>Education</h1>
-<h2>Completed practical sql courses on <a href="https://www.w3schools.com/sql/default.asp" target="_blank">W3Schools.com</a>, <a href="https://sqlbolt.com/" target="_blank">SQLBolt.com</a></h2>
-<h2>Participated in crowdtesting: <a href="https://www.testbirds.com/en/" target="_blank">TestBirds</a>, <a href="https://test.io/" target="_blank">Test IO</h2>  
+<br /><b>Completed practical sql courses on <a href="https://www.w3schools.com/sql/default.asp" target="_blank">W3Schools.com</a>, <a href="https://sqlbolt.com/" target="_blank">SQLBolt.com</a></b><br />
+Participated in crowdtesting: <a href="https://www.testbirds.com/en/" target="_blank">TestBirds</a>, <a href="https://test.io/" target="_blank">Test IO  
 <h2>Languages</h2>
-English - B2
+    <b>English - B2</b>
 
 
 
