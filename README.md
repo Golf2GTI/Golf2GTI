@@ -24,6 +24,14 @@ Here is my CV:__
         <th>Scrum, Kanban</th>
     </tr>
 </table>
+<h1 margin='20px'>Education</h1>
+<h2>Completed practical sql courses on <a href="https://www.w3schools.com/sql/default.asp" target="_blank">W3Schools.com</a>, <a href="https://sqlbolt.com/" target="_blank">SQLBolt.com</a></h2>
+<h2>Participated in crowdtesting: <a href="https://www.testbirds.com/en/" target="_blank">TestBirds</a>, <a href="https://test.io/" target="_blank">Test IO</h2>
+
+   
+<h2>Languages</h2>
+English - B2
+
 
 
 <!--
