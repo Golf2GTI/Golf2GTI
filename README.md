@@ -31,6 +31,10 @@ I'm Kirill Kapustin, QA Engineer/Software tester. Currently i have no commercial
 <b>Participated in crowdtesting: <a href="https://www.testbirds.com/en/" target="_blank">TestBirds</a>, <a href="https://test.io/" target="_blank">Test IO</b> 
 <h2>Languages</h2>
     <b>English - B2</b>
+<h2>Contacts</h2>
+📧Clackyll@yandex.ru
+
+
 
 
 
