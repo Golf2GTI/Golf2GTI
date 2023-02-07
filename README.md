@@ -15,7 +15,7 @@ I'm Kirill Kapustin, QA Engineer/Software tester. Currently i have no commercial
     </tr>
     <tr>
         <th>Web technologies</th>
-        <th>Client-server architecture, HTTP, JSON, HTML, CSS, OSI Model, Cache, Cookies, TCP/UDP</th>  
+        <th>Client-server architecture, HTTP, JSON, HTML, CSS, OSI Model, Cache, Cookies, TCP/UDP/QUIC</th>  
     </tr> 
     <tr>
         <th>Databases</th>
