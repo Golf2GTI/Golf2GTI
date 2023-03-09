@@ -6,6 +6,10 @@ I'm Kirill Kapustin, QA Engineer/Software tester. Currently i have no commercial
 <h1>CV</h1>
 <table>
     <tr>
+        <th>Programming languages</th>
+        <th>Python</th>
+    </tr>
+    <tr>
         <th>Testing</th>
         <th>Testing theory knowledge, experience in creating test cases and bug reports, SDLC, Bug life cycle</th>
     </tr>
